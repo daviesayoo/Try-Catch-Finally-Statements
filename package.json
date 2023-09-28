@@ -1,0 +1,20 @@
+{
+  "name": "trycatch",
+  "version": "1.0.0",
+  "description": "In this quest, we will build a basic web application that calculates the Fibonacci Sequence. We will integrate Try-Catch-Finally Statements to help us handle any erroneous data input by the user.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviesayoo/Try-Catch-Finally-Statements.git"
+  },
+  "author": "David Ayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviesayoo/Try-Catch-Finally-Statements/issues"
+  },
+  "homepage": "https://github.com/daviesayoo/Try-Catch-Finally-Statements#readme"
+}
